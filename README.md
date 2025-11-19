@@ -15,7 +15,7 @@ Users can classify the severity of damage instantly via a **Streamlit** interfac
 - **PyTorch CNN model** for accurate predictions  
 - Displays **classification label** and **prediction confidence**  
 - **Interactive Streamlit interface**  
-- **Cloud deployment ready** on Azure App Service
+
 
 ---
 
@@ -36,8 +36,7 @@ Users can classify the severity of damage instantly via a **Streamlit** interfac
 | Deep Learning | PyTorch |
 | Programming | Python |
 | Web App | Streamlit |
-| Deployment | Azure App Service |
-| Utilities | NumPy, OpenCV, Pillow, scikit-learn |
+| Utilities | NumPy, Pillow, scikit-learn |
 
 ---
 

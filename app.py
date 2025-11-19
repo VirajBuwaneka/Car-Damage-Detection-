@@ -8,7 +8,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-uploaded_file = st.file_uploader("Upload the file", type=["jpg", "png"])
+uploaded_file = st.file_uploader("Upload the Car Image", type=["jpg", "png"])
 
 if uploaded_file:
     image_path = "temp_file.jpg"

@@ -12,7 +12,7 @@ Users can classify the severity of damage instantly via a **Streamlit** interfac
 ## 🔥 Features
 - Upload any car image for **instant damage detection**  
 - **PyTorch CNN model** for accurate predictions  
-- Displays **classification label** and **prediction confidence**  
+- Displays **classification label**  
 - **Interactive Streamlit interface**  
 
 ---
